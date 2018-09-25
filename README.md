@@ -106,4 +106,8 @@ We've provided you with all of the code in the `CommandLineInterface` class. Tak
 
 Now run the executable file with `ruby bin/run`. You should see all of the students you scraped and instantiated `puts`-ed out to the terminal. Great job!
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-oo-student-scraper/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-oo-student-scraper/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Object Oriented Student Scraper</p>
